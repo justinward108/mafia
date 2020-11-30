@@ -1,0 +1,19 @@
+{
+  "author": [
+    "JustinWard"
+  ],
+  "min_bot_version": "3.3.0",
+  "description": "Customizable mafia Game",
+  "hidden": false,
+  "install_msg": "Thank you for installing mafia! Get started with `[p]load mafia`\n Use `[p]wwset` to run inital setup",
+  "requirements": [],
+  "short": "[ALPHA] Play mafia (Mafia) Game in discord",
+  "end_user_data_statement": "This stores user IDs in memory while they're actively using the cog, and stores no persistent End User Data.",
+  "tags": [
+    "mafia",
+    "party",
+    "fun",
+    "game",
+    "JustinWard"
+  ]
+}
